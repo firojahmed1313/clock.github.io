@@ -11,7 +11,7 @@
 #hour ,#minute ,#second{
     position: absolute;
     border-radius: 10px;
-    background: rgba(0, 0, 0, 0.712);
+    background: black;
 }
 #hour{
     width: 1.2%;
