@@ -2,7 +2,7 @@
    
     height: 40vw;
     width: 40vw;
-    background: url('/project4/img/clock.png') no-repeat;
+    background: url('../img/clock.png') no-repeat;
     background-size: 100%;
     margin: auto;
     position: relative;
